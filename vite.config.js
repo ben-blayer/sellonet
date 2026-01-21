@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/sellonet-business/',
+  base: '/sellonet/',
   logLevel: 'error',
   plugins: [
     react(),
